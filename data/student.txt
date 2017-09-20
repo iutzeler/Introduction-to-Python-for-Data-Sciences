@@ -1,0 +1,34 @@
+# Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets:
+1 sex - student's sex (binary: "F" - female or "M" - male)
+2 age - student's age (numeric: from 15 to 22)
+3 address - student's home address type (binary: "U" - urban or "R" - rural)
+4 famsize - family size (binary: "LE3" - less or equal to 3 or "GT3" - greater than 3)
+5 Pstatus - parent's cohabitation status (binary: "T" - living together or "A" - apart)
+6 Medu - mother's education (numeric: 0 - none,  1 - primary education (4th grade), 2 – 5th to 9th grade, 3 – secondary education or 4 – higher education)
+7 Fedu - father's education (numeric: 0 - none,  1 - primary education (4th grade), 2 – 5th to 9th grade, 3 – secondary education or 4 – higher education)
+8 traveltime - home to school travel time (numeric: 1 - <15 min., 2 - 15 to 30 min., 3 - 30 min. to 1 hour, or 4 - >1 hour)
+9 studytime - weekly study time (numeric: 1 - <2 hours, 2 - 2 to 5 hours, 3 - 5 to 10 hours, or 4 - >10 hours)
+10 failures - number of past class failures (numeric: n if 1<=n<3, else 4)
+11 schoolsup - extra educational support (binary: yes or no)
+12 famsup - family educational support (binary: yes or no)
+13 paid - extra paid classes within the course subject (Math or Portuguese) (binary: yes or no)
+14 activities - extra-curricular activities (binary: yes or no)
+15 nursery - attended nursery school (binary: yes or no)
+16 higher - wants to take higher education (binary: yes or no)
+17 internet - Internet access at home (binary: yes or no)
+18 romantic - with a romantic relationship (binary: yes or no)
+19 famrel - quality of family relationships (numeric: from 1 - very bad to 5 - excellent)
+20 freetime - free time after school (numeric: from 1 - very low to 5 - very high)
+21 goout - going out with friends (numeric: from 1 - very low to 5 - very high)
+22 Dalc - workday alcohol consumption (numeric: from 1 - very low to 5 - very high)
+23 Walc - weekend alcohol consumption (numeric: from 1 - very low to 5 - very high)
+24 health - current health status (numeric: from 1 - very bad to 5 - very good)
+25 absences - number of school absences (numeric: from 0 to 93)
+26 G1 - first period grade (numeric: from 0 to 20)
+27 G2 - second period grade (numeric: from 0 to 20)
+
+28 G3 - final grade (numeric: from 0 to 20, output target)
+
+Additional note: there are several (382) students that belong to both datasets . 
+These students can be identified by searching for identical attributes
+that characterize each student, as shown in the annexed R file.
