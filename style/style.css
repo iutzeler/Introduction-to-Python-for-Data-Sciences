@@ -1,0 +1,26 @@
+<style>
+div.warn {    
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-left: 5px solid #dfb5b4;
+    padding: 0.5em;
+    }
+
+
+div.exo {    
+    background-color: #e6ffe6;
+    border-color: #006400;
+    border-left: 5px solid #006400;
+    padding: 0.5em;
+    }
+
+
+
+tt {    
+    background-color: #e7e7e7;
+    font-size: 13px;
+    }
+ </style>
+
+
+
