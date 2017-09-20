@@ -3,7 +3,7 @@
 <tr>
 <td width=15%><img src="./img/UGA.png"></img></td>
 <td><center><h1>Introduction to Python for Data Sciences</h1></center></td>
-<td width=15%><a href="http://www.iutzeler.org" style="font-size: 16px; font-weight: bold">Franck Iutzeler</a>br/> 2017/2018 </td>
+<td width=15%><a href="http://www.iutzeler.org" style="font-size: 16px; font-weight: bold">Franck Iutzeler</a><br/> 2017/2018 </td>
 </tr>
 </table>
 <br/><br/> <center><h1> Course Presentation </h1></center>
