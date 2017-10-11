@@ -31,6 +31,3 @@
 #### 2. [Supervised Learning](4-2_Supervised_Learning.ipynb)
 #### 3. [Unsupervised Learning](4-3_Unsupervised_Learning.ipynb)
 #### 4. [Going Further](4-4_Going_Further.ipynb)
-
-### Chap. 5 - Neural Networks with TensorFlow 
-
