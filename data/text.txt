@@ -1,0 +1,5 @@
+This is an example file
+Made specially for this course
+This is already the third line
+Line 4
+THE END
