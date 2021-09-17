@@ -16,7 +16,7 @@
 
 ## Chap. 2 - Python for Scientific Computing 
 
-### [NumPy and co.](2_NumPy_and_co.ipynb)
+### [NumPy and co.](2_Numpy_and_co.ipynb)
 
 
 ## Chap. 3 - Data Handling with Pandas 
