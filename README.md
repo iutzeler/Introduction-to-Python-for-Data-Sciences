@@ -25,12 +25,12 @@
 ### [3.2 - Dataframes](3-2_Dataframes.ipynb)
 ### [3.3 - Fancy Visualization with Seaborn](3-3_Fancy_Visualization_with_Seaborn.ipynb)
 
-### Chap. 4 - Machine Learning with ScikitLearn 
+## Chap. 4 - Machine Learning with ScikitLearn 
 
-#### 1. [Scikit Learn](4-1_Scikit_Learn.ipynb)
-#### 2. [Supervised Learning](4-2_Supervised_Learning.ipynb)
-#### 3. [Unsupervised Learning](4-3_Unsupervised_Learning.ipynb)
-#### 4. [Going Further](4-4_Going_Further.ipynb)
+### [4.1 - Scikit Learn](4-1_Scikit_Learn.ipynb)
+### [4.2 - Supervised Learning](4-2_Supervised_Learning.ipynb)
+### [4.3 - Unsupervised Learning](4-3_Unsupervised_Learning.ipynb)
+### [4.4 - Going Further](4-4_Going_Further.ipynb)
 
 
 
